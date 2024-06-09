@@ -2,7 +2,6 @@ import mouse
 import keyboard
 import time
 import os
-import asyncio
 
 def start():
     global work
